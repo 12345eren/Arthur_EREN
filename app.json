@@ -1,14 +1,14 @@
 {
-  "name": "𝑨𝑹𝑻𝑯𝑼𝑹-",
-  "description": "𝑨𝑹𝑻𝑯𝑼𝑹",
+  "name": "ELSA_BOT-V2",
+  "description": "تم تطرير البوت بواسطه الجزار وايتاتشي♥️",
   "logo": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "ELhSA", "ELGAZAR","Elsa","theme bot","multi device","baileys","elsa"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "ELSA", "ELGAZAR","Elsa","theme bot","multi device","baileys","elsa"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "اسم المطور",
-      "value": "𝑬𝑹𝑰𝑵 ❄️&𝑨𝑹𝑻𝑯𝑼𝑹"
+      "value": "𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑"
   },
     "AUTO_STATUS_SAVER": {
       "description": "لا تغيره.",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "رقم المطور يمكن اضافه اكثر من مطور وافصلهم بـ \",\")",
-       "value": "967773685143"
+       "value": "201098906252"
   },
    "SESSION_ID": {
     "description": "كود الجلسه احصل عليه من هنا https://elsa-bott.netlify.app"
@@ -80,7 +80,7 @@
   },
     "THEME": {
     "description": "اتركه كما هو",
-     "value": "𝑬𝑹𝑰𝑵"
+     "value": "ELSA"
   },
     "WORKTYPE": {
   "description": "اذا تبي البوت عام. اكتب public واذا تبيه خاص اكتب private.",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "حقوق الملصقات.",
-     "value": "𝑬𝑹𝑰𝑵;💧",
+     "value": "ELSA;MD",
      "required": false 
   },
   "heroku": {
